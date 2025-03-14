@@ -17,6 +17,6 @@
     "chalk": "^5.4.1"
   },
   "bin": {
-    "@tb.p": "index.js"
+    "tb.p": "index.js"
   }
 }
