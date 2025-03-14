@@ -1,5 +1,5 @@
 {
-  "name": "tb.p",
+  "name": "tbp",
   "version": "1.0.7",
   "main": "index.js",
   "type": "module",
@@ -17,6 +17,6 @@
     "chalk": "^5.4.1"
   },
   "bin": {
-    "tb.p": "index.js"
+    "tbp": "index.js"
   }
 }
